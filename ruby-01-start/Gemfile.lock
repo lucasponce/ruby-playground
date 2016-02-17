@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    json (1.8.3)
     power_assert (0.2.7)
     test-unit (3.1.7)
       power_assert
@@ -9,6 +10,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  json
   test-unit
 
 BUNDLED WITH
